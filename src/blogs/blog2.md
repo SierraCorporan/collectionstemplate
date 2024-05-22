@@ -1,7 +1,7 @@
 ---
-title: Post 3
+title: Blog 2
 layout: post.njk
-tags: [post, sea, boat, blue]
+tags: [blog, sea, boat, blue]
 author: Author 2
 ---
 
